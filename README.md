@@ -11,5 +11,6 @@ All rights to the original game and its content belong to NetEase Games.
 
 ## Usage
 
-For anyone interested in using this text base for modding or translation projects, feel free to do so.
-Please credit the original creators and respect all intellectual property rights.
+This text base may be used solely for educational and research purposes.
+Any use for modding, translation, or creating derivative works is prohibited without explicit permission from NetEase Games.
+Please credit the original creators and strictly respect all intellectual property rights.
